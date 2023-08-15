@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/la-empresa", {data:[{_img:{}}],fetch:{},mutations:[]});
